@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukaszdyminski
-- 👀 I’m interested in backend web frameworks such as Django, Django REST. I have knowledge of Python at medium-advanced level.
+- 👀 I’m interested in backend web frameworks such as Django, Django REST. I have knowledge of Python at intermediate level.
 - 🌱 I’m currently learning Django and Django REST framework. I'd like to study some frontent frameworks like React to find out how it all looks from the other side :).
 - 💞️ I’m looking to collaborate on everyone who is looking for some co-workers in Python or Django projects.
 - 📫 How to reach me: lukasz.dyminski78@gmail.com
